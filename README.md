@@ -21,7 +21,7 @@
           
     4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
     
-2) Los resistores conectados en serie en el circuito 2 son: R12 - R8 - R6
+ Los resistores conectados en serie en el circuito 2-3 son: R12 - R8 - R6
     
      6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?  
   
