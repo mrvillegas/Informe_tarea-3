@@ -73,7 +73,7 @@ a) I(total)=(V/R)=(5.5 V/8800 Ω)= 0.625 mA. ;  VR1= (I X R1)=( 0.625 mA x 2200 
 
 b)I(total)=(V/R)=(5.5 V/3760000)= 4.25 μA. ;  VR1= (I X R1)=( 4.25 μA x 1MΩ)= 4.25 V ; VR2=(I x R2)=(4.25 μA x 2.2MΩ) = 9.35V ; VR3=(I x R3)=(4.25 μA x560KΩ)=2.38 V
 
-22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
+    22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
 
 I=(V/R) 
 
@@ -81,5 +81,5 @@ I=(V/R)
 
 R=(5/0.00892)=560 Ω
 
-24. Determine VR1, R2 y R3 en la figura 5-76.
+    24. Determine VR1, R2 y R3 en la figura 5-76.
 
