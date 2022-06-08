@@ -10,6 +10,17 @@
 
 **Marco teorico:** 
 
+Circuito en serie:
+
+![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/10.jpg)
+
+Aplicacion de la ley de ohm:
+
+![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/12.jpg)
+
+Voltaje en circuito en serie:
+
+![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/13.jpg)
 
  **Resolucion capitulo 5:**
    
