@@ -551,6 +551,17 @@ R=4.7kΩ*4.7kΩ*6.8kΩ*5.6kΩ*1kΩ*5.6kΩ=518Ω
 
 R=10kΩ*2.2kΩ*2.2kΩ*3.3kΩ*18kΩ=422Ω 
 
-
+ **Video:**
+ 
+ **Conclusiones:**
+ 
+ a) La resolucion del capitulo 5 nos ayudo a saber como se comportan los voltajes, corrientes y rewsistencias en un circuito en serie, como tambien saber como resolver problemas donde estan conectados las resistencias en serie, junto con las aplicaciones que tiene en la ley de ohm.
+ 
+ b) En el capitulo 5 tambien se pudo medir voltajes en el cual puede o no estar conectada a tierra, como tambien saber como localizar fallas tanto en un circuito en serie como tambien en paralelo.
+ 
+ c) En el capitulo 6 se pudo comprender cual es el comportamiento de los resistores, voltajes y corrientes en un circuito en paralelo; en este capitulo tambien se puede conocer las distintas plicaciones que tiene la ley de ohm en dicho circuito.
+ 
+ d) Se pudo saber como es la potencia en un circuito en paralelo, locaclizacion de fallas y aplicaciones que existen en este circuito antes mencionado.
+ 
 
 
