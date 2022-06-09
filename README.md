@@ -26,6 +26,11 @@ Mediciones de Voltaje:
 
 ![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/14.jpg)
 
+Circuito en paralelo:
+
+![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/15.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/16.jpg)
 
  **Resolucion capitulo 5:**
    
@@ -98,4 +103,23 @@ I=(V/R)
 R=(5/0.00892)=560 Ω
 
     24. Determine VR1, R2 y R3 en la figura 5-76.
+    
+![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/17.PNG)
+
+Dado que es un circuito en serie, entonces el voltaje se divide por cada resistor que pasa, en cambio la corriente es constante y las resistencias se suman; dando asi:
+
+Rtotal= R1+R2+R3 = ( 82 + R2 + R3 ) =( Vfuente / I total )= (12 V / 12,3 mA) = 975.6 Ω
+
+82 + R2 + R3 = 975.6 mΩ
+
+R3= (VR3 / Itotal)= ( 2.21 V /12.3 mA)= 179.6 Ω ; siendo la resistencia 3 R3=179.6 Ω
+
+VR1=(Itotal x R1) = ( 12,3 mA x 82 Ω )= 1 V
+
+como 82+R2+R3=975.6 entonces se despeja R2 dando asi:
+
+R2=975.6-82-R3= 975.6 - 82 - 179.6 = 714 ; R2 = 714 Ω
+
+
+
 
