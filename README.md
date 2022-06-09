@@ -22,6 +22,11 @@ Voltaje en circuito en serie:
 
 ![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/13.jpg)
 
+Mediciones de Voltaje:
+
+![1](https://github.com/mrvillegas/Informe_tarea-3/blob/main/14.jpg)
+
+
  **Resolucion capitulo 5:**
    
     2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
