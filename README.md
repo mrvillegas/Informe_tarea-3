@@ -553,6 +553,8 @@ R=10kΩ*2.2kΩ*2.2kΩ*3.3kΩ*18kΩ=422Ω
 
  **Video:**
  
+ https://www.youtube.com/watch?v=z_HowBJcUZ8
+ 
  **Conclusiones:**
  
  a) La resolucion del capitulo 5 nos ayudo a saber como se comportan los voltajes, corrientes y rewsistencias en un circuito en serie, como tambien saber como resolver problemas donde estan conectados las resistencias en serie, junto con las aplicaciones que tiene en la ley de ohm.
