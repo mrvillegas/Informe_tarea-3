@@ -565,5 +565,7 @@ R=10kΩ*2.2kΩ*2.2kΩ*3.3kΩ*18kΩ=422Ω
  
  d) Se pudo saber como es la potencia en un circuito en paralelo, locaclizacion de fallas y aplicaciones que existen en este circuito antes mencionado.
  
-
+  **Bibliografia:**
+  
+  Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
 
